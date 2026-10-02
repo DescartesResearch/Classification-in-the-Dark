@@ -1,4 +1,5 @@
 # Classification in the Dark: Performance Insights and Novel Methods for Homomorphic Binary Networks 🐟
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23091266.svg)](https://doi.org/10.5281/zenodo.23091266)
 
 Reference implementation and evaluation configurations for homomorphic binary neural-network inference, accompanying the paper:
 
