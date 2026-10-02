@@ -1,4 +1,4 @@
-# Classification in the Dark: Performance Insights and Novel Methods for Homomorphic Binary Networks
+# Classification in the Dark: Performance Insights and Novel Methods for Homomorphic Binary Networks 🐟
 
 Reference implementation and evaluation configurations for homomorphic binary neural-network inference, accompanying the paper:
 
@@ -154,11 +154,11 @@ Third-party components:
 
 | Name    | ORCID iD             |
 | ------- | -------------------- |
-| Lukas Horn    | [![ORCID iD](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0009-0004-4959-1371) [0009-0004-4959-1371](https://orcid.org/0009-0004-4959-1371) |
-| Lennart Svoboda | [![ORCID iD](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0009-0009-9487-3104) [0009-0009-9487-3104](https://orcid.org/0009-0009-9487-3104) |
-| Simon Engel   | [![ORCID iD](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0009-0005-3354-4746) [0009-0005-3354-4746](https://orcid.org/0009-0005-3354-4746) |
-| Thomas Prantl | [![ORCID iD](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0003-4044-8494) [0000-0003-4044-8494](https://orcid.org/0000-0003-4044-8494) |
-| Samuel Kounev | [![ORCID iD](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0001-9742-2063) [0000-0001-9742-2063](https://orcid.org/0000-0001-9742-2063) |
+| Lukas Horn    | [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="16" height="16">](https://orcid.org/0009-0004-4959-1371) [0009-0004-4959-1371](https://orcid.org/0009-0004-4959-1371) |
+| Lennart Svoboda | [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="16" height="16">](https://orcid.org/0009-0009-9487-3104) [0009-0009-9487-3104](https://orcid.org/0009-0009-9487-3104) |
+| Simon Engel   | [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="16" height="16">](https://orcid.org/0009-0005-3354-4746) [0009-0005-3354-4746](https://orcid.org/0009-0005-3354-4746) |
+| Thomas Prantl | [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="16" height="16">](https://orcid.org/0000-0003-4044-8494) [0000-0003-4044-8494](https://orcid.org/0000-0003-4044-8494) |
+| Samuel Kounev | [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID iD" width="16" height="16">](https://orcid.org/0000-0001-9742-2063) [0000-0001-9742-2063](https://orcid.org/0000-0001-9742-2063) |
 
 ## Citation
 
@@ -179,3 +179,8 @@ If you use this software or these configurations, please cite the paper and this
   year = 2026
 }
 ```
+
+<!-- 🐟 a manatee and calf rest here:
+     <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Mother_manatee_and_calf.jpg?width=20" alt="mother manatee and calf" width="20" height="13">
+     source: https://commons.wikimedia.org/wiki/File:Mother_manatee_and_calf.jpg
+     credit: Sam Farkas / NOAA Photo Library, CC BY 2.0, https://creativecommons.org/licenses/by/2.0/ -->
