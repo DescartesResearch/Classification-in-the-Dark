@@ -1,0 +1,48 @@
+{
+  "file_paths": {
+    "weights_hidden": "weights/ionosphere/relu/first_linear_weights.csv",
+    "weights_output": "weights/ionosphere/relu/second_linear_weights.csv",
+    "bias_hidden": "weights/ionosphere/relu/first_linear_bias.csv",
+    "bias_output": "weights/ionosphere/relu/second_linear_bias.csv",
+    "test_data": "datasets/ionosphere/inputs.csv",
+    "test_labels": "datasets/ionosphere/expected.csv",
+    "results": "results/results.csv"
+  },
+  "model_architecture": {
+    "input_dim": 34,
+    "hidden_dim": 9,
+    "output_dim": 2,
+    "activation_function": "ReLU"
+  },
+  "crypto_params": {
+    "multiplicative_depth": 44,
+    "scale_mod_size": 50,
+    "batch_size": 64,
+    "security_level": "HEStd_128_classic"
+  },
+  "activation_config": {
+    "type": "ActivationesConfig",
+    "activationes": {
+      "gradient": -0.022,
+      "axis": 0.605,
+      "iterations": 2,
+      "terms": 0
+    }
+  },
+  "eval_min_params": {
+    "iterations": 2,
+    "gradient": -0.001,
+    "axis": 0.211
+  },
+  "eval_binary_step_params": {
+    "iterations_sqrt": 2,
+    "gradient_sqrt": -0.001,
+    "axis_sqrt": 0.211,
+    "iterations_inv": 2,
+    "gradient_inv": -0.0007439347442857144,
+    "axis_inv": 0.07596385812857143
+  },
+  "matrix_multiplication": {
+    "method": "Col"
+  }
+}

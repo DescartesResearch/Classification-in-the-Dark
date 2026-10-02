@@ -1,0 +1,48 @@
+{
+  "file_paths": {
+    "weights_hidden": "weights/energy-efficiency/sigmoid/first_linear_weights.csv",
+    "weights_output": "weights/energy-efficiency/sigmoid/second_linear_weights.csv",
+    "bias_hidden": "weights/energy-efficiency/sigmoid/first_linear_bias.csv",
+    "bias_output": "weights/energy-efficiency/sigmoid/second_linear_bias.csv",
+    "test_data": "datasets/energy-efficiency/inputs.csv",
+    "test_labels": "datasets/energy-efficiency/expected.csv",
+    "results": "results/results.csv"
+  },
+  "model_architecture": {
+    "input_dim": 8,
+    "hidden_dim": 4,
+    "output_dim": 2,
+    "activation_function": "Sigmoid"
+  },
+  "crypto_params": {
+    "multiplicative_depth": 48,
+    "scale_mod_size": 50,
+    "batch_size": 32,
+    "security_level": "HEStd_128_classic"
+  },
+  "activation_config": {
+    "type": "ActivationesConfig",
+    "activationes": {
+      "iterations": 4,
+      "gradient": -9.60943e-05,
+      "axis": 0.0253245,
+      "terms": 4
+    }
+  },
+  "eval_min_params": {
+    "iterations": 1,
+    "gradient": -0.00229043,
+    "axis": 0.294298
+  },
+  "eval_binary_step_params": {
+    "iterations_sqrt": 1,
+    "gradient_sqrt": -0.00229043,
+    "axis_sqrt": 0.294298,
+    "iterations_inv": 2,
+    "gradient_inv": -0.0007439347442857144,
+    "axis_inv": 0.07596385812857143
+  },
+  "matrix_multiplication": {
+    "method": "RowImproved"
+  }
+}
